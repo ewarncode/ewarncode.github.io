@@ -11,7 +11,7 @@ Each project includes a short description and a direct link to its source code.
 
 ## Projects
 
-* update soon...
+* esp project update soon...
 
 ## Structure
 
